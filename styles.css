@@ -1,0 +1,103 @@
+header{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+    font-size: 5.5em;
+    text-align: center;
+    
+}
+h3 {
+    font-style: normal;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#forms{
+    background-color: honeydew;
+    width: 1275px;
+    padding: 10px;
+    margin: 60px;
+    box-shadow: 13px 12px 20px;
+
+}
+
+.type{
+    display: block;
+    -webkit-borderimage:round
+    
+}
+
+#button{
+    font-size: 14px;
+    font-weight: normal;
+    display: inline-block;
+    margin-bottom: 0px;
+    text-align: center;
+    border-radius:  4px;
+    margin: 10px;
+    background-color: lightblue;
+}
+
+
+
+body{
+    background-color: rgb(158, 157, 157);
+    margin: 0;
+    padding: 0;
+}
+input{
+width: 70%;
+padding: .5%;
+margin:0;
+text-align: left;
+box-sizing: border-box;
+}
+.container{
+    position: relative;
+    width: 100%;
+    margin: 30px;
+}
+IMG{
+    position: absolute;
+    width: 600px;
+    height: 555px;
+    display: inline-block;
+}
+.memeContainer{
+    position: relative;
+    width: 600px;
+    height: 555px;
+    display: inline-block;
+    margin: 50px;
+}
+#topInput{
+    position: absolute;
+    top: 0px;
+    color:  white;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#bottomInput{
+    position: absolute;
+    color:white;
+    display: inline-block;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
